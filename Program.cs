@@ -1,4 +1,6 @@
-﻿Console.Write("Введите решение: ");
+﻿Console.WriteLine("Приветствую");
+
+Console.Write("Введите решение: ");
 string input = Console.ReadLine();
 
 for (int i = 0; i < input.Length; i++)
