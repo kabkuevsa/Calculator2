@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Приветствую");
-
+Console.WriteLine("Это калькулятор. Введите любое решение");
 Console.Write("Введите решение: ");
 string input = Console.ReadLine();
 
